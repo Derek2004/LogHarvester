@@ -1,0 +1,2 @@
+Jul 27 12:34:56 localhost sshd[12345]: Failed password for invalid user admin from 192.168.1.100 port 2222 ssh2
+Jul 27 12:35:01 localhost sshd[12345]: Failed password for root from 192.168.1.101 port 22 ssh2
