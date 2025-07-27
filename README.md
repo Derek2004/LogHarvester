@@ -1,6 +1,6 @@
 # 🪵 LogHarvester
 
-**LogHarvester** is a lightweight Python-based log analysis tool I have designed to parse Linux-style SSH authentication logs (`auth.log`) and identify failed login attempts.
+**LogHarvester** is a lightweight Python-based log analysis tool I played around with to parse Linux-style SSH authentication logs (`auth.log`) and identify failed login attempts.
 
 ---
 
